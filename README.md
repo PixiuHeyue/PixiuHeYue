@@ -1,6 +1,7 @@
 # 貔貅合约出售，包教包会，免费提供测试币 🚀🚀🚀
 
 ## 适用于ETH BSC ARB BASE OKX HECO MATIC AVAX OPTIMISM TRON 所有链
+[TG : https://t.me/pixiu_heyue ](https://t.me/pixiu_heyue)
 
 ![12344](https://github.com/PixiuHeyue/Pixiu_Heyue/blob/main/004.jpg)
 
