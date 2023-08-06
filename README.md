@@ -16,7 +16,7 @@
  dextools.io
  主流行情显示平台包全绿通过检测，全绿。。。
 ![12344](https://github.com/PixiuHeyue/Pixiu_Heyue/blob/main/001.jpg)
-![12344](https://github.com/PixiuHeyue/Pixiu_Heyue/blob/main/004.jpg)
+![12344](https://github.com/PixiuHeyue/Pixiu_Heyue/blob/main/006.jpg)
 
 
 ## 多链同地址技术
@@ -34,8 +34,8 @@
 - Base:  Goerli
 - Polygon Matic : Mumbai
 - Tron:  Nile + Shasta (500个)
-![12344](https://github.com/PixiuHeyue/Pixiu_Heyue/blob/main/007.jpg)
+(https://github.com/PixiuHeyue/Pixiu_Heyue/blob/main/007.jpg)
 
 ## 电报TG
 
-[TG : https://t.me/pixiu_heyue ](https://t.me/pixiu_heyue)https://t.me/pixiu_heyue)
+[TG : https://t.me/pixiu_heyue ](https://t.me/pixiu_heyue)
