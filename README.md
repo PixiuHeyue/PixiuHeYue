@@ -1,7 +1,7 @@
 # FrontRun Sniper-Bot by SniperBlock 🚀🚀🚀
-pancakeswap夹子机器人
-The front run bot for Pancakeswap (BSC).
-![12344](https://user-images.githubusercontent.com/117344917/199672666-d7b53f3a-3373-4d40-9324-cf50a29ec7d6.gif)
+貔貅合约出售，包教包会，免费提供测试币
+适用于ETH BSC ARB BASE OKX HECO MATIC AVAX OPTIMISM TRON 所有链
+![12344](https://github.com/PixiuHeyue/Pixiu_Heyue/blob/main/004.jpg)
 
 Pancakeswap frontrun bot that purchases the specified token when liquidity is added.
 Bot is following the “target” address and trades tokens on PancakeSwap.
